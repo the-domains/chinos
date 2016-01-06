@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[chinos]]></title>
+        <description><![CDATA[chinos]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jan 2016 18:43:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wot No Chinos Dream League]]></title>
+            <description><![CDATA[<article><h1>Wot No Chinos Dream League</h1><p>Dream league home page goes here</p></article>]]></description>
+            <link>undefinedwot-no-chinos-dream-league/index.html</link>
+            <guid isPermaLink="false">0162a712-85c8-4020-9de9-264f598ce96e</guid>
+            <pubDate>Wed, 06 Jan 2016 18:42:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
